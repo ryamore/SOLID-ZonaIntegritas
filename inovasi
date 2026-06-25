@@ -124,9 +124,33 @@
                         <!-- Placeholder links: replace href with actual Google Drive share links -->
                         <li class="list-group-item drive-link">
                             <i class="fa fa-file-text-o" aria-hidden="true"></i>
-                            &nbsp; <a href="#" target="_blank">abc</a>
+                            &nbsp; <a href="https://linktr.ee/pelayananpublikrsudpontura" target="_blank">SEPATU</a>
                         </li>
                         <li class="list-group-item drive-link">
+                            <i class="fa fa-file-text-o" aria-hidden="true"></i>
+                            &nbsp; <a href="https://linktr.ee/InfusSehatRSPU" target="_blank">INFUS SEHAT</a>
+                        </li>
+                        <li class="list-group-item drive-link">
+                            <i class="fa fa-file-text-o" aria-hidden="true"></i>
+                            &nbsp; <a href="https://silajangrsudptkutara.netlify.app/" target="_blank">SILAJANG</a>
+                        </li>
+                        <li class="list-group-item drive-link">
+                            <i class="fa fa-file-text-o" aria-hidden="true"></i>
+                            &nbsp; <a href="http://simpelmutu.local/login" target="_blank">SIMPEL-MUTU</a>
+                        </li>
+                        <li class="list-group-item drive-link">
+                            <i class="fa fa-file-text-o" aria-hidden="true"></i>
+                            &nbsp; <a href="https://docs.google.com/spreadsheets/d/1Pisi8Tbheo6QGuSYwxF2TO4TWA0OiGuIR7z6P2S1byE/edit?usp=drive_link" target="_blank">SIAGA-STOK</a>
+                        </li>
+                        <li class="list-group-item drive-link">
+                            <i class="fa fa-file-text-o" aria-hidden="true"></i>
+                            &nbsp; <a href="#"_blank">SIGAP</a>
+                        </li>
+                        <li class="list-group-item drive-link">
+                            <i class="fa fa-file-text-o" aria-hidden="true"></i>
+                            &nbsp; <a href="#" target="_blank">PONTI MANIS</a>
+                        </li>
+                     <!--   <li class="list-group-item drive-link">
                             <i class="fa fa-file-text-o" aria-hidden="true"></i>
                             &nbsp; <a href="#" target="_blank">abc</a>
                         </li>
@@ -144,32 +168,8 @@
                         </li>
                         <li class="list-group-item drive-link">
                             <i class="fa fa-file-text-o" aria-hidden="true"></i>
-                            &nbsp; <a href="#"_blank">abc</a>
-                        </li>
-                        <li class="list-group-item drive-link">
-                            <i class="fa fa-file-text-o" aria-hidden="true"></i>
                             &nbsp; <a href="#" target="_blank">abc</a>
-                        </li>
-                        <li class="list-group-item drive-link">
-                            <i class="fa fa-file-text-o" aria-hidden="true"></i>
-                            &nbsp; <a href="#" target="_blank">abc</a>
-                        </li>
-                        <li class="list-group-item drive-link">
-                            <i class="fa fa-file-text-o" aria-hidden="true"></i>
-                            &nbsp; <a href="#" target="_blank">abc</a>
-                        </li>
-                        <li class="list-group-item drive-link">
-                            <i class="fa fa-file-text-o" aria-hidden="true"></i>
-                            &nbsp; <a href="#" target="_blank">abc</a>
-                        </li>
-                        <li class="list-group-item drive-link">
-                            <i class="fa fa-file-text-o" aria-hidden="true"></i>
-                            &nbsp; <a href="#" target="_blank">abc</a>
-                        </li>
-                        <li class="list-group-item drive-link">
-                            <i class="fa fa-file-text-o" aria-hidden="true"></i>
-                            &nbsp; <a href="#" target="_blank">abc</a>
-                        </li>
+                        </li> -->
                     </ul>
 
                     <hr>
